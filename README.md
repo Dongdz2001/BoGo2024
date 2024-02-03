@@ -86,13 +86,13 @@
 ![image](https://github.com/Dongdz2001/BoGo2024/assets/92357603/fda7cfc5-1a37-4250-aee8-4aaf3be5b4dd)
 
 
-### Nhấn phím Ctrl bên trái sẽ dịch tiếng Việt thành tiếng Hán
+### Bôi đen vùng chữ muốn dịch rồi nhấn phím Ctrl bên trái sẽ dịch tiếng Việt thành tiếng Hán
 Muốn copy rồi paste ra thì nhấn Ctrl + C để copy  nếu chưa đóng Form dịch có thể  trỏ vào  vùng cần paste nhấn Ctrl + V
 Nếu ẩn form hiện thông tin dịch rồi có thể nhần phím bên trái số 1 ở hàng trên để paste như paste ảnh 
 ![image](https://github.com/Dongdz2001/BoGo2024/assets/92357603/ea2ee16a-0b5b-4573-a81b-4ba9b1562b84)
 
 
-### Nhấn phím Ctrl bên phải sẽ dịch tiếng Hán thành tiếng Việt
+### Bôi đen vùng chữ muốn dịch rồi nhấn phím Ctrl bên phải sẽ dịch tiếng Hán thành tiếng Việt
 Muốn copy rồi paste ra thì nhấn Ctrl + C để copy  nếu chưa đóng Form dịch có thể  trỏ vào  vùng cần paste nhấn Ctrl + V
 Nếu ẩn form hiện thông tin dịch rồi có thể nhần phím bên trái số 1 ở hàng trên để paste như paste ảnh 
 
