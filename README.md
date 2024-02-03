@@ -1,6 +1,7 @@
 # Hướng dẫn sử dụng phần mềm bộ gõ hán nôm
 
-![image](https://github.com/vietlac/dichhannom/assets/92357603/a4d65df3-781e-4af4-8b83-3623c6aa595d)
+![image](https://github.com/Dongdz2001/BoGo2024/assets/92357603/9dbc3d64-87b8-47ab-99b0-fc7befc0294e)
+
 
 # Hướng dẫn mở phần mềm để dùng thử
 - Clone hoăc dowload project từ Github về
